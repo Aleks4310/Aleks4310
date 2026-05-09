@@ -23,3 +23,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats-blue-seven-tm0sk1q2n3.vercel.app/api?username=Aleks4310&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats-blue-seven-tm0sk1q2n3.vercel.app/api/top-langs/?username=Aleks4310&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Top Languages" height="170">
+</p>
