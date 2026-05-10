@@ -6,12 +6,7 @@
   <a href="https://t.me/alekseycontact">
     <img alt="Telegram" src="https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white">
   </a>
-  
-  <br><br>
-  
-  <img src="https://i.pinimg.com/originals/6d/29/cc/6d29cc48ad122d9f1f3becb2c7b7b27d.gif" style="border-radius: 5px;">
-</div>
-
+  <br>
 <h2 align="center">🛠️ My Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
