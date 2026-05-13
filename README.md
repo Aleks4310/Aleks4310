@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hello! I'm Aleksey</h1>
-  <p>I'm a cool specialist!</p>
+  <h1>Hello! I'm Aleksey<br></h1>
   <img src="https://i.pinimg.com/originals/81/1d/25/811d255ce4eed0428b0b52b8ccb46c6f.gif" style="border-radius: 50px;">
   <h3>📱 My socials:</h3>
   <a href="https://t.me/alekseycontact">
